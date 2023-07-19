@@ -1,7 +1,7 @@
 # Welcome to ASAPGaming Project
 
-Server it's not really coming back but fuck that, anyone that wants to have fun with it, go ahead
-Here you will find all the server files needed to run the server, it's not gonna be easy to setup, but it's better than nothing
+Server it's not really coming back but fuck that, anyone that wants to have fun with it, go ahead.
+Here you will find all the server files needed to run the server, it's not gonna be easy to setup, but it's better than nothing.
 
 # Important Terms
 
@@ -76,6 +76,6 @@ No, i won't be fixing specific bugs or anything like that, but i will help you t
 # Special thanks
 
 To everyone at ASAPGaming members and to anyone that just liked the server enough to get something done from it
-Fuck that stupid cunt that made me make it public due my stupidity, I won't mention you because you mean nothing to me, but it's a fact all this project might be helpful to anyone
+Fuck that stupid cunt that made me make it public due my stupidity, I won't mention you because you mean nothing to me, but it's a fact all this project might be helpful to anyone.
 
 And special thanks to CodeBlue, the inventory and gobblegums were our stronger part of our gamemode, and I'm really proud to worked with someone like him the short time we could 🙏
