@@ -79,3 +79,5 @@ To everyone at ASAPGaming members and to anyone that just liked the server enoug
 Fuck that stupid cunt that made me make it public due my stupidity, I won't mention you because you mean nothing to me, but it's a fact all this project might be helpful to anyone.
 
 And special thanks to CodeBlue, the inventory and gobblegums were our stronger part of our gamemode, and I'm really proud to worked with someone like him the short time we could 🙏
+
+❤
